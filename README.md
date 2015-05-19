@@ -1,3 +1,0 @@
-# Journal
-
-[Describe the project.]
