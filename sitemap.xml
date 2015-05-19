@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>journal.jppferguson.com/</loc>
-    <lastmod>2015-05-19T05:08:07+01:00</lastmod>
+    <lastmod>2015-05-19T05:30:52+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -35,9 +35,9 @@
   
   
   <url>
-    <loc>journal.jppferguson.com/404/</loc>
+    <loc>journal.jppferguson.com/404.html</loc>
     
-      <lastmod>2015-05-19T05:08:07+01:00</lastmod>
+      <lastmod>2015-05-19T05:30:52+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -50,7 +50,7 @@
   <url>
     <loc>journal.jppferguson.com/about/</loc>
     
-      <lastmod>2015-05-19T05:08:07+01:00</lastmod>
+      <lastmod>2015-05-19T05:30:52+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -63,7 +63,7 @@
   <url>
     <loc>journal.jppferguson.com/atom.xml</loc>
     
-      <lastmod>2015-05-19T05:08:07+01:00</lastmod>
+      <lastmod>2015-05-19T05:30:52+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -76,7 +76,7 @@
   <url>
     <loc>journal.jppferguson.com/</loc>
     
-      <lastmod>2015-05-19T05:08:07+01:00</lastmod>
+      <lastmod>2015-05-19T05:30:52+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -89,7 +89,7 @@
   <url>
     <loc>journal.jppferguson.com/sitemap.xml</loc>
     
-      <lastmod>2015-05-19T05:08:07+01:00</lastmod>
+      <lastmod>2015-05-19T05:30:52+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
